@@ -6,6 +6,7 @@ This repository tracks my journey learning algorithms and preparing for technica
 
 - **[30 Days of JavaScript](./30%20Days%20of%20JavaScript/)** - Solutions to the 30 Days of JavaScript challenge
 - **[The LeetCode Beginner's Guide](./The%20LeetCode%20Beginner's%20Guide/)** - Challenge problems from the beginner's guide
+- **[Arrays 101](./Arrays%20101/)** - Array problems
 
 ## Languages
 
