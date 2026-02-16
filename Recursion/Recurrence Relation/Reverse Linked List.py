@@ -16,3 +16,4 @@ class Solution(object):
         head.next.next = head
         head.next = None
         return t
+    
