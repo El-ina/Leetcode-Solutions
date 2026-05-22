@@ -17,4 +17,4 @@ var finalPrices = function(prices) {
 
     }
     return prices;
-};
+};е
