@@ -15,5 +15,3 @@ var repeatedStringMatch = function(a, b) {
     
     return -1;
 };
-
-console.log(repeatedStringMatch("abc", "cabcabca"));
